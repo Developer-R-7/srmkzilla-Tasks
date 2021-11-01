@@ -14,7 +14,7 @@ Get familiar with working of NodeJS and JavaScript basic syntax and write a exam
 - `ChangeMoneyProblem.js` ➡️ Solution for the given [problem]( https://www.geeksforgeeks.org/find-number-currency-notes-sum-upto-given-amount/). 
 
 ## 😄 Contributing
-**Suggestion and changes are welcomed!**
+**Pull requests are welcome for changes and bugs.**
 
 <br><br>
 ***Rushi Patel*** ❤️
